@@ -18,4 +18,8 @@ The **Track Phone Number Location Using Python** project allows users to track t
 - **folium:** To create and visualize maps with the tracked location.
 - **Other Libraries:** Any additional libraries used for data handling or visualization (e.g., `requests`).
 
-]
+### Installation
+
+1. Clone the repository:
+   ```bash
+   https://github.com/Kalyanreddyd/TrackingLocation.git
